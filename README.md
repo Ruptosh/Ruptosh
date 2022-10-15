@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Ruptosh
-- 👀 I’m interested in data analysis and data science
-- 🌱 I’m currently learning data analysis
+- 👋 Hi, I’m Ruptosh Chatterjee
+- 👋 I am from Kolkata, India 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
