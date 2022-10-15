@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ruptosh Chatterjee
-- 👋 I am from Kolkata, India 
+- 👋 I'm from Kolkata, India 
+- 👋 Please connect with me in https://www.linkedin.com/in/ruptosh/
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
