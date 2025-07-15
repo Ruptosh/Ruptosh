@@ -1,4 +1,5 @@
 👋✨ Welcome to my GitHub!
+
 📍Hi folks! I'm Ruptosh Chatterjee.
 
 I'm a Data Analyst with an MBA(Finance) from Vidyasagar University and B.Com(Hons) from Calcutta University.
