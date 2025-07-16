@@ -1,4 +1,4 @@
-👋✨ Welcome to my GitHub!
+# 👋✨ Welcome to my GitHub!
 
 📍Hi folks! I'm Ruptosh Chatterjee.
 
