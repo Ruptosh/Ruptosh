@@ -11,7 +11,7 @@ I love to turn messy, raw data into meaningful insights that help business to ma
 
 
 
-🌟 A Little About Me
+## 🌟 A Little About Me
 
 My approach to data is simple:
 
@@ -24,7 +24,7 @@ I’m constantly learning, experimenting, and refining my skills.
   
 
 
-💼 What I Love Working On
+## 💼 What I Love Working On
 
 ✨ Building dashboards that make insights obvious
 
@@ -39,7 +39,7 @@ I’m constantly learning, experimenting, and refining my skills.
 
   
 
-🛠️ My Toolkit
+## 🛠️ My Toolkit
 
 
 📊 Excel · 
@@ -55,7 +55,7 @@ I’m constantly learning, experimenting, and refining my skills.
 
 
   
-📜 Certifications & Learning
+## 📜 Certifications & Learning
 
 
 ✅ Excel: Mother of Business Intelligence – Code Basics
@@ -71,6 +71,6 @@ I’m constantly learning, experimenting, and refining my skills.
 
   
 
-🤝 Let's Connect!
+## 🤝 Let's Connect!
 I’m always looking forward to meeting fellow data enthusiasts, potential collaborators, or anyone curious about turning data into better decisions.
 https://www.linkedin.com/in/ruptosh/
