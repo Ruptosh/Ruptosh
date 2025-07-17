@@ -73,4 +73,4 @@ I’m constantly learning, experimenting, and refining my skills.
 
 ## 🤝 Let's Connect!
 I’m always looking forward to meeting fellow data enthusiasts, potential collaborators, or anyone curious about turning data into better decisions.
-https://www.linkedin.com/in/ruptosh/
+[LinkedIn](https://www.linkedin.com/in/ruptosh/)
