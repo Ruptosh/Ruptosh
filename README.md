@@ -58,9 +58,9 @@ I’m constantly learning, experimenting, and refining my skills.
 ## 📜 Certifications & Learning
 
 
-✅ Excel: Mother of Business Intelligence – Code Basics
+✅ Excel: Mother of Business Intelligence – Codebasics
 
-✅ Get Job Ready: Power BI Data Analytics 3.0 – Code Basics
+✅ Get Job Ready: Power BI Data Analytics 3.0 – Codebasics
 
 ✅ Microsoft Power BI Data Analyst (Coursera)
 
